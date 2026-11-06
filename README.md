@@ -10,6 +10,8 @@
 > - 主要改动：新增 `packages/eez-studio-shared/i18n-cn.ts` 中文词典，并在显示函数接入 `t()`；构建工具链做了本地适配（不改变应用 GPL 性质）
 > - 本软件按"现状"提供，**不提供任何担保**（GPL v3 第 15、16 条）
 >
+> - 网盘下载（安装包/免安装版）：百度网盘，链接 https://pan.baidu.com/s/1ufKyw-2eEwQL1S9_lKp1oQ?pwd=n7k5 ，提取码 `n7k5`
+>
 > 如需官方版本与技术支持，请访问 [Envox 官网](https://www.envox.eu/studio/studio-introduction/)。
 
 ---
