@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "lib": ["ES2020", "DOM"],
+        "module": "commonjs",
+        "target": "ES2022",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "jsx": "react",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noUnusedLocals": true,
+        "strictNullChecks": true,
+        "baseUrl": "./packages",
+        "sourceMap": false,
+        "inlineSourceMap": false,
+        "pretty": false,
+        "outDir": "./build",
+        "skipLibCheck": true,
+        "strictPropertyInitialization": false,
+        "useDefineForClassFields": true,
+        "importHelpers": true
+    },
+    "include": ["./packages"]
+}
